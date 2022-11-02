@@ -14,3 +14,7 @@ Ezáltal elérhető egy bizonyos kompetencia a regisztrált felhasználók közt
 
 A weboldal feltétele, hogy html kódon alapuló weblapot kell szerkeszteni. A kinézetett CSS programozási nyelv segítségével kell elérni, míg a funkciók a PHP 
 segítégével fognak megtörténni. A felhasználók adatbázisát a phpMyAdmin software segítségével oldanánk meg. Melyet egy projekt menedzser felületen lesz végre hajtva. Ezen projetc menedzser lesz a Laravel
+
+2.3 Forgatókönyv
+A felhasználó bejelentkezés után tud kitölteni teszteket. A tesztek kitöltéséért pontokat kap, amit megtekinthet a felhasználói profilján. Bejelentkezett 
+profillal a felhasználó képes új teszteket hozzáadni, esetlegesen módosítani is azokat. 
